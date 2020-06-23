@@ -47,6 +47,20 @@
             "homepage": "https://github.com/rinvex/laravel-attributes/contributors"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/go24dev/laravel-cacheable"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/go24dev/laravel-support"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/go24dev/eloquent-sortable"
+        }
+    ],
     "require": {
         "php": "^7.1.3",
         "illuminate/console": "~5.8.0",
